@@ -13,3 +13,4 @@ float g = 34.65;
 float result = r*r + g*g;
 Console.WriteLine(result);
 Console.WriteLine(r);
+Console.WriteLine(g);
